@@ -1,7 +1,7 @@
-# uoi
+# Amir's Project
 
   ## Description: 
-  ihi
+  Professional ReadMe generator
   
   ### Table of Contents:
   * [Contribution](#contribution)
@@ -13,25 +13,25 @@
   * [License](#license)
    
   #### Contribution
-  asaksa
+  Amir and help from Sangeetha(tutor)
   
   #### Installation
-  hgcyghvk
+  install now
 
   #### Usage
-  hu7yjkk
+  use for professional purposes, そして楽しみのために。
 
   #### Test
-  ugibjkn
+  テスト　テスト!
 
   #### Contact
   Please feel free to reach me at
-  strxcyv@jnbkjbhi.com
+  iamamirmohamed@gmail.com
   for any questions regarding this projct.
 
   #### Github
-  iuygufubo
-  [github profile](https://github.com/iuygufubo)
+  amirlasalle
+  [github profile](https://github.com/amirlasalle)
 
   #### License
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
