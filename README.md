@@ -1,7 +1,7 @@
-# Amir's Project
+# Professional readme generator
 
   ## Description: 
-  Professional ReadMe generator
+  created a command line application that dynamiically generates a professional README.md file from a user's input
   
   ### Table of Contents:
   * [Contribution](#contribution)
@@ -13,20 +13,20 @@
   * [License](#license)
    
   #### Contribution
-  Amir and help from Sangeetha(tutor)
+  Contribution
   
   #### Installation
-  install now
+  install to generate your readme file
 
   #### Usage
-  use for professional purposes, そして楽しみのために。
+  for professional use, そして、楽しみのために。
 
   #### Test
-  テスト　テスト!
+  テストTESTテスト
 
   #### Contact
   Please feel free to reach me at
-  iamamirmohamed@gmail.com
+  amirlasalle@gmail.com
   for any questions regarding this projct.
 
   #### Github
